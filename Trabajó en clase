@@ -1,0 +1,10 @@
+# Diccionario de Las Crónicas de Narnia
+narnia_info = {
+    "Título": "Las Crónicas de Narnia",
+    "Año de publicación": 1950,
+    "Número de hojas": 768,  # Número aproximado en ediciones completas
+    "Autor": "C. S. Lewis"
+}
+
+# Mostrar el diccionario
+print(narnia_info)
